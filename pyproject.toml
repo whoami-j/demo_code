@@ -1,0 +1,12 @@
+[project]
+name = "demo-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.0",
+    "opencv-python-headless>=4.10.0.84",
+    "pytesseract>=0.3.13",
+    "uvicorn>=0.34.0",
+]
